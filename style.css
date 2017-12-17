@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 	top: 0;
 	bottom: 0;
 	z-index: 100;
-	background: #0bdead;
+	background: #0bdead!important;
 	padding: 30px 20px;
 }
 #logo {
