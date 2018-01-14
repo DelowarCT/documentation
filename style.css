@@ -67,9 +67,9 @@ h1, h2, h3, h4, h5, h6 {
 	border-top: 1px solid #dcdcdc;
 }
 .codertrust-main-nav li a:hover{
-	border-color: #4e4e4e;
+	border-color: #125272;
 	color: #fff;
-	background: #4e4e4e;
+	background: #125272;
 }
 .codertrust-main-nav li a.codertrust-active{
 	border-color: #101010;
